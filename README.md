@@ -1,16 +1,13 @@
-# House-price-prediction
- Your neighbor is a real estate agent and wants some help predicting housing prices for regions in the USA. It would be great if you could somehow create a model for her that allows her to put in a few features of a house and returns back an estimate of what the house would sell for.
+# Bharat_Intern
+This  repository contains three machine learning projects focused on different aspects of predictive modeling. Each project is implemented using linear regression and logistic regression  and includes Jupyter notebook code for easy understanding and reproduction.
 
-She has asked you if you could help her out with your new data science skills. You say yes, and decide that Linear Regression might be a good path to solve this problem!
+House Price Prediction:
+    In this project, a machine learning model is developed to predict house prices. By utilizing linear regression techniques, the model analyzes various features of houses and learns patterns to estimate their prices accurately. The Jupyter notebook code provides detailed explanations and step-by-step instructions on how to train and evaluate the model.
 
-Your neighbor then gives you some information about a bunch of houses in regions of the United States,it is all in the data set: USA_Housing.csv.
+Wine Quality Prediction:
+    The Wine Quality Prediction project aims to determine the quality of wines based on specific attributes using linear regression. By training a machine learning model on a dataset comprising various wine characteristics, the model can predict the quality rating of a given wine sample. The Jupyter notebook code offers insights into the data preprocessing, model training, and evaluation stages.
 
-The data contains the following columns:
+Iris Flowers Classification:
+    This project focuses on the classification of different species of iris flowers using logistic regression. By considering the length of petals and sepals, the machine learning model can identify the species accurately. The Jupyter notebook code provides comprehensive explanations of the data preprocessing, model training, and classification process.
 
-* 'Avg. Area Income': Avg. Income of residents of the city house is located in.
-* 'Avg. Area House Age': Avg Age of Houses in same city
-* 'Avg. Area Number of Rooms': Avg Number of Rooms for Houses in same city
-* 'Avg. Area Number of Bedrooms': Avg Number of Bedrooms for Houses in same city
-* 'Area Population': Population of city house is located in
-* 'Price': Price that the house sold at
-* 'Address': Address for the house
+All three projects are designed to demonstrate the application of  regression in specific domains, showcasing how it can be used effectively for prediction tasks. By exploring the provided Jupyter notebook code, users can gain a deeper understanding of the implementation details and potentially apply similar techniques to their own projects.
